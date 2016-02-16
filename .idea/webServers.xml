@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f1564cf7-0bd1-4d13-a962-f90941faf48f" name="Home">
+        <fileTransfer host="ftp.riceandcoffee.com" port="21" username="youkaithegreat@riceandcoffee.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
