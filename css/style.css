@@ -1,7 +1,6 @@
 @font-face {
-    font-family: 'calligraphy';
-    src: url(../fonts/HotNinja.otf);
-    font-weight: bold;
+    font-family: roboto;
+    /*font-weight: bold;*/
 }
 
 @media only screen and (min-width : 320px) and (max-width : 680px) {
@@ -27,17 +26,17 @@
     h1 #name {
         text-align: center;
         font-size: 8vw !important;
-        font-family: 'calligraphy', serif  !important;
+        font-family: roboto  !important;
         color: black !important;
-        font-weight: bold !important;
+        /*font-weight: bold !important;*/
     }
 
     h3 .title {
         text-align: center;
         font-size: 6vw !important;
-        font-family: 'calligraphy', serif  !important;
+        font-family: roboto  !important;
         color: black !important;
-        font-weight: bold !important;
+        /*font-weight: bold !important;*/
     }
 
     img {
@@ -82,17 +81,17 @@ html {
 h1  {
     text-align: center;
     font-size: 3vw ;
-    font-family: 'calligraphy', serif  !important;
+    font-family: roboto  !important;
     color: black !important;
-    font-weight: bold !important;
+    /*font-weight: bold !important;*/
 }
 
 h3 {
     text-align: center;
     font-size: 1.8vw ;
-    font-family: 'calligraphy', serif  !important;
+    font-family: roboto  !important;
     color: black !important;
-    font-weight: bold !important;
+    /*font-weight: bold !important;*/
 }
 
 img {
@@ -123,6 +122,6 @@ h4 {
 }
 a {
     text-decoration:none;
-    font-family: 'calligraphy', serif;
+    font-family: roboto;
     color:red;
 }
