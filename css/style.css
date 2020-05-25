@@ -101,10 +101,8 @@ img {
 i {
     color: black;
     position: relative; /* postulat de départ */
-    padding-top: 10%;
-    padding-left: 25%;
-    <!-- left: 25%; /* à 50%/50% du parent référent */-->
-    /*transform: translate(-50%, -50%);*/
+    padding : 5%;
+    left: 25%; 
 }
 
 span {
